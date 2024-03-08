@@ -5,3 +5,6 @@
 [submodule "gdi"]
 	path = gdi
 	url = https://github.com/cran/gdi
+[submodule "paleoDiv"]
+	path = paleoDiv
+	url = https://github.com/cran/paleoDiv
